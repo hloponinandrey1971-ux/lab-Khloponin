@@ -1,0 +1,3 @@
+Git tracks file changes.
+Git add prepares changes for a commit.
+Git commit saves prepared changes.
